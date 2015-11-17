@@ -1,5 +1,10 @@
 BALABOLKA :: History
 
+06.11.2015     v2.11.0.591
+
+  - Fixed small bugs.
+
+
 31.10.2015     v2.11.0.590
 
   - Fixed small bugs.
