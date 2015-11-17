@@ -1,0 +1,807 @@
+BALABOLKA :: History
+
+31.10.2015     v2.11.0.590
+
+  - Fixed small bugs.
+  * Microsoft Translator is used instead of the Google Translate service.
+    Memo for Google: "For the love of money is a root of all kinds of evils."
+
+
+11.10.2015     v2.11.0.589
+
+  - Fixed small bugs.
+  * Resources for Hungarian and Turkish languages were updated (thanks to
+    Zoltan Magyar and Cagri Dogan).
+
+
+20.09.2015     v2.11.0.588
+
+  - Fixed the image viewer.
+  * The menu items "Skip to Next Paragraph" and "Skip to Previous Paragraph",
+    "Skip to Next Line" and "Skip to Previous Line" were interchanged.
+  * Resources for Spanish language were updated (thanks to Fernando Gregoire).
+
+
+08.08.2015     v2.11.0.587
+
+  - Fixed the access to the Google TTS service.
+
+
+06.08.2015     v2.11.0.586
+
+  - Fixed the text extracting for EPUB files.
+  * Resources for French and Slovenian languages were updated (thanks to
+    Michel Such and Jozef Gregorc).
+
+
+28.07.2015     v2.11.0.585
+
+  - Fixed the access to the Google Translate service.
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
+20.07.2015     v2.11.0.584
+
+  + Added the main menu items "Add Current Line as Named Bookmark" and
+    "Create Table of Contents".
+  * Updated the text split method: if text block size is defined, this value
+    will be used as a limit, not as a target. The program will split text
+    into equal parts.
+  * Resources for German and Spanish languages were updated (thanks to
+    Regine Mueller and Fernando Gregoire).
+
+
+05.07.2015     v2.11.0.583
+
+  - Fixed small bugs.
+  * Resources for German language were updated (thanks to Regine Mueller).
+
+
+10.06.2015     v2.11.0.582
+
+  - Fixed small bugs.
+  * Resources for French language were updated (thanks to Michel Such).
+
+
+07.06.2015     v2.11.0.581
+
+  + Added the main menu item "Find Previous".
+  + Small improvements.
+  - Removed the main menu item "Magnifier".
+  * Updated the applying of rules from REX-dictionaries.
+  * The set of skins was fully updated (old skins will not work correctly on Windows 10).
+  * Resources for Bulgarian, Slovenian and Ukrainian languages were updated
+    (thanks to Kostadin Kolev, Jozef Gregorc and Evgeny Miroshnichenko).
+
+
+11.05.2015     v2.10.0.580
+
+  - Fixed small bugs.
+  + Added the option to prevent multiple instances of Balabolka.
+  * Resources for German language were updated (thanks to Regine Mueller).
+
+
+12.04.2015     v2.10.0.579
+
+  + Added the removing of soft hyphens to the text formatting.
+
+
+30.03.2015     v2.10.0.578
+
+  - Fixed small bugs.
+  * Resources for Persian language were updated (thanks to Seyed Mahmood Taghavi-Shahri).
+
+
+10.01.2015     v2.10.0.577
+
+  - Fixed small bugs.
+  + Added resources for Persian language (thanks to Seyed Mahmood Taghavi-Shahri).
+  + Added resources for Slovenian language (thanks to Jozef Gregorc).
+  * Resources for Croatian language were updated (thanks to Gordan Radic).
+
+
+14.12.2014     v2.10.0.576
+
+  - Fixed small bugs.
+  * Resources for Arabic and Turkish languages were updated (thanks to
+    Majid al-Asiri and Cagri Dogan).
+
+
+11.10.2014     v2.10.0.575
+
+  - Fixed small bugs.
+  * Resources for Bulgarian, French and Spanish languages were updated (thanks to
+    Kostadin Kolev, Michel Such and Fernando Gregoire).
+
+
+27.09.2014     v2.10.0.574
+
+  - Fixed the text extracting for CHM files.
+  + Small improvements.
+  * Resources for Romanian language were updated (thanks to Alexandru Bogdan Munteanu).
+
+
+30.08.2014     v2.10.0.573
+
+  + Small improvements.
+  * Resources for Hungarian language were updated (thanks to Zoltan Magyar).
+
+
+20.07.2014     v2.10.0.572
+
+  + Added the support of new languages to Spritz-Reader.
+  * Resources for French and Ukrainian languages were updated (thanks to
+    Michel Such and Evgeny Miroshnichenko).
+
+
+13.07.2014     v2.10.0.571
+
+  * The maximal speed for Spritz-Reader was increased up to 1000 wpm.
+  * Resources for Turkish language were updated (thanks to Cagri Dogan).
+
+
+04.06.2014     v2.10.0.570
+
+  - Fixed the error in the using of global hotkeys.
+  * Resources for Bulgarian and Spanish languages were updated (thanks to
+    Kostadin Kolev and Fernando Gregoire).
+
+
+24.05.2014     v2.10.0.569
+
+  + Added the button "Delete with Text" to the window "Go to Named Bookmark".
+  * Spritz-Reader was improved.
+  * Resources for Bulgarian, French and Spanish languages were updated (thanks to
+    Kostadin Kolev, Michel Such and Fernando Gregoire).
+
+
+18.05.2014     v2.10.0.568
+
+  + Added the support of Spritz technology for high-speed reading.
+  * Resources for German, Romanian and Spanish languages were updated (thanks to
+    Regine Mueller, Alexandru Bogdan Munteanu and Fernando Gregoire).
+
+
+08.04.2014     v2.9.0.567
+
+  - Fixed small bugs.
+  + Added the Spanish help file (thanks to Fernando Gregoire).
+
+
+29.03.2014     v2.9.0.566
+
+  + Small improvements.
+  * Resources for Bulgarian, French and Spanish languages were updated (thanks to
+    Kostadin Kolev, Michel Such and Fernando Gregoire).
+
+
+22.02.2014     v2.9.0.565
+
+  + Added the item "Edit with Notepad" to the context menu of the dictionaries' panel.
+  + Added resources for Croatian language (thanks to Gordan Radic).
+  * Resources for Serbian (Latin) language were updated (thanks to Aleksandar Duric).
+
+
+26.01.2014     v2.9.0.564
+
+  + A table of contents will be imported as named bookmarks (for FB2 files).
+  - Fixed the text extracting for EPUB files.
+  * Resources for German language were updated (thanks to Regine Mueller).
+
+
+19.01.2014     v2.9.0.563
+
+  + Small improvements.
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
+03.01.2014     v2.9.0.562
+
+  + Small improvements.
+  * Resources for French and Ukrainian languages were updated (thanks to
+    Michel Such and Evgeny Miroshnichenko).
+
+
+01.12.2013     v2.9.0.561
+
+  + Improved the text extracting for DOCX and ODT files: the extracting of
+    footnotes and endnotes was added.
+  - Fixed small bugs.
+  * Resources for Italian and Romanian languages were updated (thanks to
+    Fabio Boccaletti and Alexandru Bogdan Munteanu).
+
+
+02.11.2013     v2.9.0.560
+
+  * The panel of voice settings was updated.
+  - Fixed small bugs.
+  * Resources for French, German, Turkish and Ukrainian languages were updated
+    (thanks to Lyubov Tyurina, Regine Mueller, Cagri Dogan and Evgeny Miroshnichenko).
+
+
+20.10.2013     v2.8.0.559
+
+  + Added the proxy server settings for Google Translate and Google TTS.
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
+06.10.2013     v2.8.0.558
+
+  + Added the main menu item "Balabolka Home Page".
+  - Fixed small bugs.
+
+
+25.08.2013     v2.8.0.557
+
+  + Small improvements.
+  * Resources for Italian and Romanian languages were updated (thanks to
+    Fabio Boccaletti and Alexandru Bogdan Munteanu).
+
+
+18.08.2013     v2.8.0.556
+
+  + Added the ability to receive data from STDIN for custom text import.
+  - The library DELZIP190.DLL is not used.
+
+
+14.08.2013     v2.8.0.555
+
+  * Updated the window "List of Spelling Errors".
+  * Updated the text extracting for PDF files.
+
+
+03.08.2013     v2.8.0.554
+
+  - Fixed the text extracting for EPUB and PDF files.
+
+
+30.07.2013     v2.8.0.553
+
+  * Updated the subtitle converter.
+  * Resources for Ukrainian language were updated (thanks to Evgeny Miroshnichenko).
+
+
+28.07.2013     v2.8.0.552
+
+  * Updated the text extracting for PDF files.
+  * Resources for Bulgarian and French languages were updated (thanks to
+    Kostadin Kolev and Michel Such).
+
+
+21.07.2013     v2.8.0.551
+
+  + Added the main menu item "Subtitle Converter". The program will convert
+    text files with subtitles to audio files. SRT, SSA/ASS and SMI formats
+    are supported.
+  * Resources for Bulgarian, French, German and Turkish languages were updated
+    (thanks to Kostadin Kolev, Michel Such, Regine Mueller and Cagri Dogan).
+
+
+07.07.2013     v2.7.0.550
+
+  + Added the main menu item "Text Import". The new window contains
+    settings for custom text import, by using of external programs.
+  * Resources for Bulgarian and German languages were updated (thanks to
+    Kostadin Kolev and Regine Mueller).
+
+
+21.06.2013     v2.7.0.549
+
+  + Small improvements.
+  * Resources for Italian and Romanian languages were updated (thanks to
+    Fabio Boccaletti and Alexandru Bogdan Munteanu).
+
+
+02.06.2013     v2.7.0.548
+
+  + Creating of new document tab by double clicking on empty tab area.
+  + Closing of tab by middle button clicking.
+  - Fixed small bugs.
+  * Resources for Bulgarian, French and Ukrainian languages were updated
+    (thanks to Kostadin Kolev, Michel Such and Evgeny Miroshnichenko).
+
+
+25.05.2013     v2.7.0.547
+
+  + Added the option "Never prompt to save modified text" (the window
+    "Settings", the tab "Text").
+  * Resources for Bulgarian, Polish, Portuguese (Brazil), Turkish and Ukrainian
+    languages were updated (thanks to Kostadin Kolev, Zbigniew Strzelczyk,
+    Tiago Nonato, Cagri Dogan and Evgeny Miroshnichenko).
+
+
+01.05.2013     v2.7.0.546
+
+  + Added the option "Open folder in Windows Explorer when saving of
+    audio file is finished" to the window "Audio Files".
+  + Small improvements.
+  * Resources for Bulgarian, French, German and Turkish languages were updated
+    (thanks to Kostadin Kolev, Michel Such, Regine Mueller and Cagri Dogan).
+
+
+14.04.2013     v2.7.0.545
+
+  + Added the main menu items "Increase Font Size" and "Decrease Font Size".
+  + Small improvements.
+  * Resources for Korean language were updated (thanks to Choi Youn-Soo).
+
+
+06.04.2013     v2.7.0.544
+
+  + Small improvements.
+  * Resources for Bulgarian, French, Italian, Romanian and Ukrainian languages
+    were updated (thanks to Kostadin Kolev, Michel Such, Fabio Boccaletti,
+    Alexandru Bogdan Munteanu and Evgeny Miroshnichenko).
+
+
+24.03.2013     v2.7.0.543
+
+  + Added the options "Insert silence" and "Insert audio clip" (the window
+    "Settings", the tab "Pauses").
+  * The button "Audio Output" was replaced by the main menu item 
+    "Options | Audio Output".
+  * The tab "Buttons" at the window "Settings" was transformed to the window
+    "Buttons".
+  * Resources for Arabic, Bulgarian, French and German languages were updated
+    (thanks to Majid al-Asiri, Kostadin Kolev, Michel Such and Regine Mueller).
+
+
+17.03.2013     v2.6.0.542
+
+  + Added the main menu items "Skip to Next Line" and "Skip to Previous Line".
+  + Added the list of French homographs (thanks to Michel Such).
+  * Resources for French and Turkish languages were updated (thanks to
+    Michel Such and Cagri Dogan).
+
+
+12.03.2013     v2.6.0.541
+
+  + Small improvements.
+  * Resources for Bulgarian, German and Italian languages were updated
+    (thanks to Kostadin Kolev, Regine Mueller and Fabio Boccaletti).
+
+
+03.03.2013     v2.6.0.540
+
+  + The text extract utility is available for downloading of the web-site.
+  + Added the support of Kindle Format 8 (*.AZW3).
+  + Added resources for Greek language (thanks to Wasilis Mandratzis).
+  * Resources for Bulgarian and German languages were updated (thanks to
+    Kostadin Kolev and Regine Mueller).
+
+
+26.02.2013     v2.6.0.539
+
+  + The console application is available for downloading of the web-site.
+  + Small improvements.
+  * Resources for German language were updated (thanks to Regine Mueller).
+
+
+10.02.2013     v2.6.0.538
+
+  - Fixed small bugs.
+  * Resources for Polish, Romanian, Turkish and Ukrainian languages were updated
+    (thanks to Zbigniew Strzelczyk, Alexandru Bogdan Munteanu, Cagri Dogan and
+    Evgeny Miroshnichenko).
+
+
+20.01.2013     v2.6.0.537
+
+  - Fixed small bugs.
+  * Resources for Bulgarian, French and Italian languages were updated (thanks to
+    Kostadin Kolev, Michel Such and Fabio Boccaletti).
+
+
+08.01.2013     v2.6.0.536
+
+  + Added the global hotkeys "Import Text from Clipboard" and "Change Voice".
+  + Added resources for Serbian (Cyrillic) language (thanks to Ozzii).
+  * Resources for German and Ukrainian languages were updated (thanks to
+    Regine Mueller and Evgeny Miroshnichenko).
+
+
+13.12.2012     v2.6.0.535
+
+  - Fixed the problem with skins (thanks to Gary Jennings).
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
+12.12.2012     v2.6.0.534
+
+  + Added the using of custom encoders (the window "Audio Files", 
+    the tab "Options/Custom Encoders").
+  + A silent installation is available by using "-silent" command-line switch.
+  + New settings for Clipboard Watch were added.
+  - Fixed small bugs.
+  * Support of Windows 7/8 was improved.
+  * Resources for German language were updated (thanks to Regine Mueller).
+
+
+11.11.2012     v2.5.0.533
+
+  - Fixed the extracting of text from EPUB files (thanks to Giuliano Artico).
+  - Fixed small bugs.
+
+
+22.10.2012     v2.5.0.532
+
+  - Fixed small bugs.
+  * Resources for Japanese language were updated (thanks to Olga Chebysheva).
+
+
+22.09.2012     v2.5.0.531
+
+  - Fixed the problem with Windows Media Audio (thanks to Nickolay Ponomaryov).
+  - Fixed the problem with spell-checkers (thanks to German Garcia).
+
+
+08.09.2012     v2.5.0.530
+
+  - Fixed small bugs.
+  * Resources for Polish and Portuguese (Brazil) languages were updated (thanks to
+    Zbigniew Strzelczyk and Tiago Nonato).
+
+
+26.08.2012     v2.5.0.529
+
+  - Fixed small bugs.
+  * Resources for Serbian language were updated (thanks to Rajko Tomic).
+
+
+20.08.2012     v2.5.0.528
+
+  + Added resources for Serbian (Latin) language (thanks to Rajko Tomic).
+  * Resources for Arabic, Bulgarian, French, Italian, Romanian and Ukrainian languages
+    were updated (thanks to Majid al-Asiri, Kostadin Kolev, Michel Such, Fabio Boccaletti,
+    Alexandru Bogdan Munteanu and Evgeny Miroshnichenko).
+
+
+12.08.2012     v2.5.0.527
+
+  - Fixed small bugs.
+  * Resources for Arabic, Bulgarian, Japanese, Turkish and Ukrainian languages
+    were updated (thanks to Majid al-Asiri, Kostadin Kolev, Olga Chebysheva,
+    Cagri Dogan and Evgeny Miroshnichenko).
+
+
+24.06.2012     v2.5.0.526
+
+  + Added the option "Clipboard Watch" to the window "Settings", the tab "Clipboard".
+  + Small improvements.
+  * Resources for German, Italian and Romanian languages were updated (thanks to
+    Regine Mueller, Fabio Boccaletti and Alexandru Bogdan Munteanu).
+
+
+06.05.2012     v2.5.0.525
+
+  + Small improvements.
+  * The French help file was updated (thanks to Lyubov Tyurina).
+  * Resources for Japanese language were updated (thanks to Olga Chebysheva).
+
+
+29.04.2012     v2.5.0.524
+
+  + The main window and the small floating window snap to the screen borders or
+    the borders of other windows.
+  * Resources for Ukrainian language were updated (thanks to Evgeny Miroshnichenko).
+
+
+24.04.2012     v2.5.0.523
+
+  - The "fast" method of rules' applying is not used anymore.
+  - Fixed small bugs.
+  * Resources for Bulgarian, French, German and Korean languages were updated
+    (thanks to Kostadin Kolev, Michel Such, Regine Mueller and Choi Youn-Soo).
+
+
+21.04.2012     v2.5.0.522
+
+  + Added the main menu item "Save Audio File (Google TTS)".
+    The program saves text as audio file by using Google Text-To-Speech service.
+    The voices for more than 30 languages are available.
+  + Small improvements.
+  + Added resources for Finnish language (thanks to Veikko Muurikainen).
+  * Resources for Italian language were updated (thanks to Fabio Boccaletti).
+
+
+08.04.2012     v2.4.0.521
+
+  + Added the reading of Microsoft Reader files (*.LIT).
+  * Resources for Bulgarian and French languages were updated (thanks to Kostadin Kolev
+    and Michel Such).
+
+
+31.03.2012     v2.4.0.520
+
+  + Small improvements.
+  * Resources for Arabic, German, Portuguese (Brazil) and Romanian languages were updated
+    (thanks to Majid al-Asiri, Regine Mueller, Tiago Nonato and Alexandru Bogdan Munteanu).
+
+
+25.03.2012     v2.4.0.519
+
+  + Small improvements.
+  * Resources for Ukrainian language were updated (thanks to Evgeny Miroshnichenko).
+
+
+20.03.2012     v2.4.0.518
+
+  + Added the reading of Mobipocket/Kindle files (*.AZW, *.MOBI, *.PRC).
+  * The "fast" method of rules' applying was updated.
+  * The help files are stored in the "Help" subfolder.
+  * Resources for French and German languages were updated (thanks to Michel Such and
+    Regine Mueller).
+
+
+04.03.2012     v2.3.0.517
+
+  + Small improvements.
+  - Fixed small bugs.
+
+
+08.01.2012     v2.3.0.516
+
+  - Fixed small bugs.
+  * Resources for Arabic and German languages were updated (thanks to Majid al-Asiri
+    and Regine Mueller).
+
+
+25.12.2011     v2.3.0.515
+
+  + The special codes can be used in the windows "Find" and "Replace" (the same codes
+    as in Microsoft Word).
+  * Resources for Italian language were updated (thanks to Fabio Boccaletti).
+
+
+11.12.2011     v2.3.0.514
+
+  + Added resources for Turkish language (thanks to Cagri Dogan).
+
+
+26.11.2011     v2.3.0.513
+
+  + Added the button "Split" to the window "Split and Convert to Audio Files".
+  + Small improvements.
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
+06.11.2011     v2.3.0.512
+
+  + Added the creating of playlists for audio files (the window "Audio Files", the tab "Playlist").
+    M3U, PLS, WPL and XSPF formats are supported.
+  * Resources for German and Ukrainian languages were updated (thanks to Regine Mueller
+    and Evgeny Miroshnichenko).
+
+
+30.10.2011     v2.3.0.511
+
+  - Fixed small bugs.
+  * Resources for Chinese (Simplified) language were updated (thanks to Yupeng).
+
+
+22.10.2011     v2.3.0.510
+
+  + Added the support of Microsoft Speech Platform:
+    http://msdn.microsoft.com/en-us/library/hh361572.aspx
+    The current version of Speech Platform supports 26 languages.
+    Download and install Speech Platform Runtime:
+    http://www.microsoft.com/download/en/details.aspx?id=27225
+    Download and install Text-to-Speech Engines:
+    http://www.microsoft.com/download/en/details.aspx?id=27224
+    The installed voices will be available on the tab "Microsoft Speech Platform" in the program.
+  - The version 1.xx of Balabolka is not supported anymore.
+  * Resources for Bulgarian, German, Italian, Korean and Ukrainian languages were updated
+    (thanks to Kostadin Kolev, Regine Mueller, Fabio Boccaletti, Choi Youn-Soo and
+    Evgeny Miroshnichenko).
+
+
+16.10.2011     v2.2.0.509
+
+  + Added the option "Use system default voice" to the window "Settings", the tab "Voice".
+  - Fixed small bugs.
+  * Resources for French and German languages were updated (thanks to Michel Such and
+    Regine Mueller).
+
+
+02.10.2011     v2.2.0.508
+
+  * The window "Translate" was updated. Google Translate API is not used anymore
+    (because it will be available as a paid service on December 1, 2011). Now the program
+    uses the Google Translate service directly.
+  - Fixed small bugs.
+  * Resources for Bulgarian, Romanian and Ukrainian languages were updated (thanks to
+    Kostadin Kolev, Alexandru Bogdan Munteanu and Evgeny Miroshnichenko).
+
+
+11.09.2011     v2.2.0.507
+
+  + New options were added to the windows "Timer" and "Extract Text from Files".
+  + Small improvements.
+  * The license agreement was updated.
+  * Resources for German language were updated (thanks to Regine Mueller).
+
+
+28.08.2011     v2.2.0.506
+
+  + Small improvements.
+  * Resources for Portuguese (Brazil) language were updated (thanks to Tiago Nonato).
+
+
+08.08.2011     v2.2.0.505
+
+  + Small improvements.
+  + Added resources for Japanese language (thanks to Igor Sergeev and Misa Tsurumi).
+  * The "fast" method of rules' applying was updated.
+
+
+03.07.2011     v2.2.0.504
+
+  - Fixed small bugs.
+
+
+24.05.2011     v2.2.0.503
+
+  - Fixed the extracting of text from EPUB files.
+  - Fixed small bugs.
+  * Resources for Chinese (Simplified) and Polish languages were updated (thanks to
+    Yupeng and Zbigniew Strzelczyk).
+
+
+02.05.2011     v2.2.0.502
+
+  + The extracting of text from HTML and MHT files was improved.
+  + The support of Hunspell spell checker was improved.
+  + Added resources for Arabic language (thanks to Majid Al-Asiri).
+  * Resources for Korean language were updated (thanks to Choi Youn-Soo).
+
+
+26.04.2011     v2.2.0.501
+
+  - Fixed small bugs.
+  * Resources for Bulgarian, Italian and Ukrainian languages were updated (thanks to
+    Kostadin Kolev, Fabio Boccaletti and Evgeny Miroshnichenko).
+
+
+10.04.2011     v2.2.0.500
+
+  + Added the main menu item "Direct Speech". It allows to add tags for changing 
+    of voice during reading of dialogs. For SAPI 5 only.
+  * Resources for Chinese (Traditional), Czech and German languages were updated
+    (thanks to CMHDREAM, Stanislav Tomecka and Regine Mueller).
+
+
+27.03.2011     v2.2.0.499
+
+  - Fixed the "fast" method of rules' applying.
+  - Fixed small bugs.
+  * Resources for Ukrainian language were updated (thanks to Evgeny Miroshnichenko).
+
+
+20.03.2011     v2.2.0.498
+
+  + Added the track bar "Pitch" to the tab "SAPI 5" in the main window.
+  + Added resources for Vietnamese language (thanks to Missfly82-AIO).
+  - Fixed small bugs.
+
+
+12.03.2011     v2.2.0.497
+
+  + Added the global hotkeys "Skip to Next Paragraph" and "Skip to Previous Paragraph".
+  - Fixed small bugs.
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
+26.02.2011     v2.2.0.496
+
+  + Added the chapter "Phonetic Alphabets" to the help file.
+  + Small improvements.
+  * Resources for German, Italian, Portuguese (Brazil) and Ukrainian languages were
+    updated (thanks to Regine Mueller, Fabio Boccaletti, Tiago Nonato and Evgeny
+    Miroshnichenko).
+
+
+20.02.2011     v2.2.0.495
+
+  + Added the reading of DjVu-files (the program extracts data from an OCR text layer).
+  - Removed the setting "Write to file speed" (SAPI 4) from the window "Audio Files".
+  - Fixed small bugs.
+  * Resources for Bulgarian, French, Italian, Korean and Romanian languages were updated
+    (thanks to Kostadin Kolev, Michel Such, Fabio Boccaletti, Choi Youn-Soo and
+    Alexandru Bogdan Munteanu).
+
+
+12.02.2011     v2.2.0.494
+
+  + Added the reading of CHM-files (Compiled HTML Help).
+  + A table of contents will be imported as named bookmarks to the program (for
+    CHM and EPUB).
+  * Updated the extracting of text from EPUB and HTML.
+  - Fixed the reading of FB2-files.
+  + Added the button "Text color" to the window "Font and Colors".
+  + Added the setting "Encoding of output files" to the window "File Splitter".
+  + Small improvements.
+  * Libraries and "viewer.exe" are stored in the subfolder "utils".
+  * Resources for Bulgarian, German, Korean and Ukrainian languages were updated
+    (thanks to Kostadin Kolev, Regine Mueller, Choi Youn-Soo and Evgeny Miroshnichenko).
+
+
+06.02.2011     v2.1.0.493
+
+  * Updated the extracting of text from DOC, DOCX, EPUB, ODT.
+  + Added the main menu item "Edit | Convert Selected | Line Case" (to capitalize
+    all lines of selected text - for poems).
+  * Resources for German language were updated (thanks to Regine Mueller).
+
+
+30.01.2011     v2.1.0.492
+
+  + The dictionary of homographs can be converted to DIC file (the button "Save as"
+    in the editor of homographs).
+  * During the reading of selected text the selection does not disappear.
+  + Added the tab "Search" to the help files (for compatibility with screen readers).
+  + Small improvements.
+  * Resources for Bulgarian, Italian, Polish and Ukrainian languages were updated
+    (thanks to Kostadin Kolev, Fabio Boccaletti, Zbigniew Strzelczyk and Evgeny
+    Miroshnichenko).
+
+
+23.01.2011     v2.1.0.491
+
+  + Added the Korean help file (thanks to Choi Youn-Soo).
+  - Fixed bugs in the pronunciation correction.
+  * Resources for Bulgarian, Korean and Ukrainian languages were updated (thanks to
+    Kostadin Kolev, Choi Youn-Soo and Evgeny Miroshnichenko).
+
+
+16.01.2011     v2.1.0.490
+
+  + Added the French help file (thanks to Lyubov Tyurina).
+  + Added the options "Show all words" and "Do not show words from text file" to the
+    window "Find Names in Text".
+  * Resources for Bulgarian, Czech, German, Korean, Portuguese (Brazil), Romanian and
+    Ukrainian languages were updated (thanks to Kostadin Kolev, Stanislav Tomecka,
+    Regine Mueller, Choi Youn-Soo, Tiago Nonato, Alexandru Bogdan Munteanu and
+    Evgeny Miroshnichenko).
+
+
+06.01.2011     v2.1.0.489
+
+  + Added the main menu item "Audio Clip". It allows to insert a link to external
+    audio clip into text:
+      {{Audio=C:\Sounds\ring.mp3}}
+    Supported formats: WAV, MP3, OGG. The program will play an audio clip during
+    reading aloud. When converting to audio files, an audio clip will be embedded in
+    the audio file created by the program.
+  * The file extension 'INI' will be automatically changed to 'REX' for pronunciation
+    correction dictionaries.
+  + Small improvements.
+  * Resources for German, Italian and Ukrainian languages were updated (thanks to
+    Regine Mueller, Fabio Boccaletti and Evgeny Miroshnichenko).
+
+
+20.12.2010     v2.0.0.488
+
+  - Fixed small bugs.
+  * Resources for Bulgarian, Korean and Ukrainian languages were updated (thanks to
+    Kostadin Kolev, Choi Youn-Soo and Evgeny Miroshnichenko).
+
+
+19.12.2010     v2.0.0.487
+
+  + The window "Translate" was improved.
+  + The reading of text can be started from the beginning of a paragraph (the window
+    "Settings", the tab "General"). In previous versions the reading can be started from
+    the position of cursor or from the begining of a document.
+  + Small improvements.
+  * Resources for Chinese (Simplified) language were updated (thanks to Yupeng).
+
+
+12.12.2010     v2.0.0.486
+
+  + The version 2.0 was released.
+  + The support of Hunspell was improved.
+  * Resources for Bulgarian, Italian, Korean, Polish and Ukrainian languages were updated
+    (thanks to Kostadin Kolev, Fabio Boccaletti, Choi Youn-Soo, Zbigniew Strzelczyk and
+    Evgeny Miroshnichenko).
+
+###
