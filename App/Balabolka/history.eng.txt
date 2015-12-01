@@ -1,5 +1,12 @@
 BALABOLKA :: History
 
+28.11.2015     v2.11.0.592
+
+  + Added the check box "Create subfolder" to the "Split and Convert to
+    Audio Files" window.
+  + Small improvements.
+
+
 06.11.2015     v2.11.0.591
 
   - Fixed small bugs.
