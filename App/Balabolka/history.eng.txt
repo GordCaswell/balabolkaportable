@@ -1,5 +1,30 @@
 BALABOLKA :: History
 
+14.02.2016     v2.11.0.596
+
+  * Improved the character encoding detection for text files.
+  * Google Translate service is used instead of the Microsoft Translator.
+
+
+16.01.2016     v2.11.0.595
+
+  - Fixed small bugs.
+  * Improved the text extracting for PDF files.
+
+
+03.01.2016     v2.11.0.594
+
+  - Fixed the text extracting for HTML files.
+  * Resources for Arabic and Slovenian languages were updated (thanks to 
+    Majid al-Asiri and Jozef Gregorc).
+
+
+05.12.2015     v2.11.0.593
+
+  + Added resources for Catalan language (thanks to Hiro5).
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
 28.11.2015     v2.11.0.592
 
   + Added the check box "Create subfolder" to the "Split and Convert to
