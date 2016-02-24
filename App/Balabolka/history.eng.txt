@@ -1,5 +1,11 @@
 BALABOLKA :: History
 
+23.02.2016     v2.11.0.597
+
+  * Other online TTS services are used instead of Google Text-To-Speech.
+  * Resources for Chinese (Simplified) language were updated (thanks to Anan).
+
+
 14.02.2016     v2.11.0.596
 
   * Improved the character encoding detection for text files.
