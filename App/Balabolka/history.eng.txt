@@ -1,5 +1,18 @@
 BALABOLKA :: History
 
+02.03.2016     v2.11.0.599
+
+  + Added the option "Split and Convert to Audio Files" to the Batch File Converter.
+  + Small improvements.
+  * Resources for German and Spanish languages were updated (thanks to
+    Regine Mueller and Fernando Gregoire).
+
+
+25.02.2016     v2.11.0.598
+
+  * Google Text-To-Speech is used again.
+
+
 23.02.2016     v2.11.0.597
 
   * Other online TTS services are used instead of Google Text-To-Speech.
