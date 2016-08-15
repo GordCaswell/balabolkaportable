@@ -1,5 +1,68 @@
 BALABOLKA :: History
 
+30.07.2016     v2.11.0.606
+
+  + Added the main menu item "Read All Opened Documents". If the setting is active,
+    the application will read the opened documents one by one.
+  + Small improvements.
+  * The main menu items were rearranged. The new submenu "Voice" was added.
+  * Resources for Hungarian language were updated (thanks to Zoltan Magyar).
+
+
+16.07.2016     v2.11.0.605
+
+  + Small improvements.
+  - Fixed the text extracting for DOCX and ODT files.
+  * Resources for Slovenian language were updated (thanks to Jozef Gregorc).
+
+
+02.06.2016     v2.11.0.604
+
+  + Added the support of the %FirstLine% variable in the "Base Output Filename" box
+    in the window "Split and Convert to Audio Files". The application will replace
+    this variable by the first line of each text part.
+  + Small improvements.
+  * Resources for Arabic, Bulgarian, Chinese (Simplified), French,
+    Portuguese (Brazil), Slovenian and Spanish languages were updated (thanks to
+    Majid al-Asiri, Kostadin Kolev, Anan, Michel Such, Jozef Gregorc and
+    Felipe Porciuncula Zanabria).
+
+
+28.05.2016     v2.11.0.603
+
+  + Added the using of the left mouse button to stop the reading aloud.
+  + Added the main menu items "Skip to Next Sentence" and "Skip to Previous Sentence".
+  + Added the menu items "Skip to Next Sentence" and "Skip to Previous Sentence"
+    to the Spritz-Reader window.
+  - Removed the main menu items "Skip to Next Line" and "Skip to Previous Line".
+
+
+21.05.2016     v2.11.0.602
+
+  + Small improvements.
+  * Resources for Spanish and Turkish languages were updated (thanks to
+    Fernando Gregoire and Cagri Dogan).
+
+
+23.04.2016     v2.11.0.601
+
+  + Added the support of regular expressions for the menu items "Find" and
+    "Replace" (for more information, see the chapter "Frequently Asked Questions"
+    in the help file).
+  - Fixed the silent installation of Balabolka.
+  * Resources for Bulgarian and Spanish languages were updated (thanks to
+    Kostadin Kolev and Fernando Gregoire).
+
+
+12.03.2016     v2.11.0.600
+
+  + Added the support of URLs to the "Open" dialog box.
+  + Small improvements.
+  - Fixed the text extracting for HTML files.
+  * Resources for Bulgarian and Spanish languages were updated (thanks to
+    Kostadin Kolev and Fernando Gregoire).
+
+
 02.03.2016     v2.11.0.599
 
   + Added the option "Split and Convert to Audio Files" to the Batch File Converter.
