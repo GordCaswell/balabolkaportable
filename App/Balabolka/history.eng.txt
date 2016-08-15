@@ -1,5 +1,12 @@
 BALABOLKA :: History
 
+07.08.2016     v2.11.0.607
+
+  - Fixed small bugs.
+  * Resources for Bulgarian, French and Spanish languages were updated (thanks to
+    Kostadin Kolev, Michel Such and Fernando Gregoire).
+
+
 30.07.2016     v2.11.0.606
 
   + Added the main menu item "Read All Opened Documents". If the setting is active,
