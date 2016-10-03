@@ -3,7 +3,7 @@ Balabolka
 
 Author: Ilya Morozov
 WWW: http://www.cross-plus-a.com/balabolka.htm
-E-mail: crossa@hotbox.ru
+E-mail: crossa@list.ru
 
 Note: This application is begin released as freeware. Users with questions regarding either this EULA or the application in general, should feel free to ask the Author. I answer all messages as soon as possible.
 

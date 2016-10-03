@@ -1,5 +1,12 @@
 BALABOLKA :: History
 
+25.08.2016     v2.11.0.608
+
+  * Realized the processing of the default audio output defice changing.
+  * Resources for Portuguese (Brazil) language were updated (thanks to
+    Felipe Porciuncula Zanabria).
+
+
 07.08.2016     v2.11.0.607
 
   - Fixed small bugs.
