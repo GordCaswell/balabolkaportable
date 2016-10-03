@@ -1,5 +1,11 @@
 BALABOLKA :: History
 
+01.10.2016     v2.11.0.609
+
+  + Added support of the Ukrainain language to the Google Text-To-Speech window.
+  + Small improvements.
+
+
 25.08.2016     v2.11.0.608
 
   * Realized the processing of the default audio output defice changing.
