@@ -1,5 +1,10 @@
 BALABOLKA :: History
 
+11.10.2016     v2.11.0.610
+
+  - Fixed the text extracting for MHTML files.
+
+
 01.10.2016     v2.11.0.609
 
   + Added support of the Ukrainain language to the Google Text-To-Speech window.
