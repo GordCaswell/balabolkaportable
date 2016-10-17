@@ -601,7 +601,7 @@ s599=程序将执行操作准备要朗读的文本. 格式定义在 "设置" 窗
 s600=保存所有
 s601=电子出版物
 s602=从文件中提取文本
-s603=程序将转换 AZW，AZW3，CHM，DjVu，DOC，DOCX，EPUB，FB2，HTML，LIT，MOBI，ODT，PDF，PRC，RTF 到 TXT. 几种转换的方式: 使用 Microsoft Word，LibreOffice.org 或 内置转换器（"设置" 窗口 文本" 标签"）.
+s603=程序将转换 AZW，CHM，DjVu，DOC，DOCX，EPUB，FB2，HTML，LIT，MOBI，ODT，PDF，PRC，RTF，WPD 到 TXT. 几种转换的方式: 使用 Microsoft Word，LibreOffice.org 或 内置转换器（"设置" 窗口 文本" 标签"）.
 s604=输出文件编码
 s605=格式化文本
 s606=AMR-WB 文件
@@ -823,6 +823,7 @@ s821=打开文件或 URL
 s822=跳到下一句
 s823=跳到上一句
 s824=Read All Opened Documents
+s825=WordPerfect documents
 ***********************************************************************
 Simplified Chinese translation by 大眼仔~旭（Anan）
 E-mail：wcxu21@126.com

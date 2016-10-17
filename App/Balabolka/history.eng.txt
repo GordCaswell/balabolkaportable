@@ -1,5 +1,10 @@
 BALABOLKA :: History
 
+15.10.2016     v2.11.0.611
+
+  + Added the support of Corel WordPerfect documents (*.WPD).
+
+
 11.10.2016     v2.11.0.610
 
   - Fixed the text extracting for MHTML files.
