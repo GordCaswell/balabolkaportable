@@ -1,5 +1,16 @@
 BALABOLKA :: History
 
+27.10.2016     v2.11.0.612
+
+  + Added the text extracting for PalmDoc books (*.PDB).
+    The supported formats of PDB: PalmDOC, Palm Reader/eReader, zTXT.
+  + Added the support of Psion/EPOC books (*.TCR).
+  - Fixed the text extracting for AZW3 files.
+  + Small improvements.
+  * Resources for Bulgarian and Spanish languages were updated (thanks to
+    Kostadin Kolev and Fernando Gregoire).
+
+
 15.10.2016     v2.11.0.611
 
   + Added the support of Corel WordPerfect documents (*.WPD).
