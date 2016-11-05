@@ -1,5 +1,16 @@
 BALABOLKA :: History
 
+05.11.2016     v2.11.0.613
+
+  + Added the text extracting for PDB (Plucker) files.
+  + Added the image extracting for PDB (eReader) books.
+  + Added the support of PNM, SVG and TIFF formats for the image viewer.
+  * The editor window for pronunciation correction can be resized.
+  - Removed the main menu item "Repeat Text".
+  * Resources for Bulgarian and Spanish languages were updated (thanks to
+    Kostadin Kolev and Fernando Gregoire).
+
+
 27.10.2016     v2.11.0.612
 
   + Added the text extracting for PalmDoc books (*.PDB).
