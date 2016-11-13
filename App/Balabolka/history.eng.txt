@@ -1,5 +1,14 @@
 BALABOLKA :: History
 
+12.11.2016     v2.11.0.614
+
+  + Added the main menu item "Save All".
+  + Uploaded the Hunspell dictionaries for Bosnian, Hindi, Icelandic and
+    Serbian languages.
+  + Added the spell check support for Hindi language. 
+  * Resources for Chinese (Simplified) language were updated (thanks to Anan).
+
+
 05.11.2016     v2.11.0.613
 
   + Added the text extracting for PDB (Plucker) files.

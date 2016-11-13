@@ -822,13 +822,16 @@ s820=此快捷方式已被用于其他操作。
 s821=打开文件或 URL
 s822=跳到下一句
 s823=跳到上一句
-s824=Read All Opened Documents
-s825=WordPerfect documents
-s826=PalmDoc eBook files
-s827=Psion/EPOC books
+s824=阅读所有已打开的文档
+s825=WordPerfect 文档
+s826=PalmDoc eBook 文件
+s827=Psion/EPOC 书
+s828=字体大小
+s829=增加
+s830=减少
 ***********************************************************************
 Simplified Chinese translation by 大眼仔~旭（Anan）
 E-mail：wcxu21@126.com
 Blog：www.dayanzai.me
-Updated：2016.06.01
+Updated：2016.11.07
 ***********************************************************************
