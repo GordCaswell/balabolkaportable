@@ -1,5 +1,21 @@
 BALABOLKA :: History
 
+26.11.2016     v2.11.0.616
+
+  + Added the support of the IFilter interface for the custom text import.
+  + Added the main menu item "Check for Update". 
+  + Added the setting "Check for update on Balabolka startup".
+  - Fixed small bugs.
+  * Resources for Bulgarian, Croatian, Slovenian and Spanish languages were updated
+    (thanks to Kostadin Kolev, Gordan Radic, Jozef Gregorc and Fernando Gregoire).
+
+
+19.11.2016     v2.11.0.615
+
+  + Added the creating of SRT files for text synchronized audiobooks.
+  * Resources for French language were updated (thanks to Michel Such).
+
+
 12.11.2016     v2.11.0.614
 
   + Added the main menu item "Save All".
