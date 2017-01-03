@@ -1,5 +1,12 @@
 BALABOLKA :: History
 
+02.01.2017     v2.11.0.617
+
+  - Fixed the support of Asian languages for the text editor.
+  * Resources for Bulgarian and Slovenian languages were updated
+    (thanks to Kostadin Kolev and Jozef Gregorc).
+
+
 26.11.2016     v2.11.0.616
 
   + Added the support of the IFilter interface for the custom text import.

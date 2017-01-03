@@ -1,5 +1,5 @@
-Balabolka, version 2.11.0.616
-Copyright (c) 2006-2016 Ilya Morozov
+Balabolka, version 2.11.0.617
+Copyright (c) 2006-2017 Ilya Morozov
 All Rights Reserved
 
 WWW: http://www.cross-plus-a.com/balabolka.htm
