@@ -1,5 +1,23 @@
 BALABOLKA :: History
 
+22.01.2017     v2.11.0.619
+
+  + Added the support of the %FileName% variable in the "Output Filename Pattern" box
+    in the window "Split and Convert to Audio Files". The application will replace
+    this variable by the text filename.
+  * The window "Split and Convert to Audio Files" was updated.
+  * Resources for Bulgarian language were updated (thanks to Kostadin Kolev).
+
+
+21.01.2017     v2.11.0.618
+
+  + Added the support of the %Number% variable in the "Base Output Filename" box
+    in the window "Split and Convert to Audio Files". Use this variable to change
+    the position of the sequence number inside the output filename.
+  + Added the option "Display close button on all tabs" (the window "Settings",
+    the tab "View").
+
+
 02.01.2017     v2.11.0.617
 
   - Fixed the support of Asian languages for the text editor.
