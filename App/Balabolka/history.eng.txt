@@ -1,5 +1,13 @@
 BALABOLKA :: History
 
+28.01.2017     v2.11.0.620
+
+  - Fixed the saving of text files with the ANSI encoding.
+  * Updated the text extracting for DjVu files.
+  * Resources for Bulgarian and Spanish languages were updated (thanks to
+    Kostadin Kolev and Fernando Gregoire).
+
+
 22.01.2017     v2.11.0.619
 
   + Added the support of the %FileName% variable in the "Output Filename Pattern" box
