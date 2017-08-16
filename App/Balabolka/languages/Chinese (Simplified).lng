@@ -829,27 +829,30 @@ s827=Psion/EPOC 书
 s828=字体大小
 s829=增加
 s830=减少
-s831=First File
-s832=Second File
-s833=Result
+s831=第一个文件
+s832=第二个文件
+s833=结果
 s834=IFilter
-s835=IFilter is a plug-in that allows to extract text from documents. IFilters are available for Adobe PDF, WordPerfect and many other popular file formats. You just need to download and install them.
-s836=Check for Update
-s837=Check for update on Balabolka startup
-s838=A new version of Balabolka (%s) is available. Would you like to open the download page?
-s839=You have the latest version of Balabolka (%s).
-s840=Cannot connect to the server.
-s841=Update Balabolka
-s842=SRT is the native subtitle format of the SubRip program. It is one of the most used formats for subtitles, supported by most software video players.
-s843=Display close button on all tabs
-s844=Use standard pattern (document name and sequence number)
-s845=Use optional pattern
-s846=Output Filename Pattern
-s847=Pattern may contain variables (%Number%, %FileName%, %FirstLine%), words or other characters.
+s835=IFilter 是一个插件，允许从文档中提取文本。IFilters 可用于 Adobe PDF，WordPerfect 和许多其他流行的文件格式。你只需要下载并安装它们。
+s836=检查更新
+s837=须 Balabolka 启动时检查更新
+s838=Balabolka (%s) 的新版本可用。你想打开下载页面吗?
+s839=你有最新版本的 Balabolka (%s)。
+s840=无法连接到服务器。
+s841=更新 Balabolka
+s842=SRT 是 SubRip 程序的本地字幕格式。它是大多数软件视频播放器支持最常用的字幕格式之一。
+s843=在所有选项卡上显示关闭按钮
+s844=使用标准模式（文件名称和序列号）
+s845=使用可选模式
+s846=输出文件名模式
+s847=模式可能包含变量 (%Number%, %FileName%, %FirstLine%)，单词或其他字符。
 s848=输出文件命名
+s849=The content of the text file
+s850=ID3v2 unsynchronized text (USLT)
+s851=锁定到任务栏
 ***********************************************************************
 Simplified Chinese translation by 大眼仔~旭（Anan）
 E-mail：wcxu21@126.com
 Blog：www.dayanzai.me
-Updated：2016.11.07
+Updated：2017.04.04
 ***********************************************************************

@@ -1,5 +1,62 @@
 BALABOLKA :: History
 
+25.06.2017     v2.11.0.631
++ Small improvements.
+* Resources for Hungarian and Portuguese languages were updated (thanks to Zoltan Magyar and Angelo Abrantes).
+
+
+17.06.2017     v2.11.0.630
+* The panel of dictionaries was updated (for the compability with screen readers).
+- Fixed small bugs.
+
+
+10.06.2017     v2.11.0.629
++ Added resources for Armenian language (thanks to "Arman High Foundation").
+- Fixed the shell extension library.
+- Fixed small bugs.
+* Resources for Bulgarian and Slovenian languages were updated (thanks to Kostadin Kolev and Jozef Gregorc).
+
+
+14.05.2017     v2.11.0.628
++ Added the support of the USLT tag for saving of unsynchronized text in MP3 files.
++ Added the option "Pin to taskbar" to the installer.
+* Resources for Italian and Spanish languages were updated (thanks to Massimo Castiglia and Fernando Gregoire).
+
+
+29.04.2017     v2.11.0.627
++ Added the support of the %FullText% variable in ID3 tags. The variable will be replaced by the content of a text file.
+* Resources for Filipino language were updated (thanks to William Nabaza).
+
+
+23.04.2017     v2.11.0.626
+- Fixed the drag-and-drop support for text files.
++ Small improvements.
++ Resources for Catalan language were updated (thanks to Hiro5).
+
+
+18.04.2017     v2.11.0.625
++ Added the drag-and-drop support for the text editor.
+- Fixed small bugs.
+* Resources for Chinese (Simplified) language were updated (thanks to Anan).
+
+
+29.03.2017     v2.11.0.624
++ Added the support of Spell Checking API for Windows 8 and above.
+- Fixed the creating of LRC and SRT files.
+* Resources for Czech language were updated (thanks to Jiri Fenz).
+
+
+21.03.2017     v2.11.0.623
++ Added resources for Filipino language (thanks to William Nabaza).
++ Small improvements.
++ Uploaded the Hunspell dictionaries for Filipino, Kazakh, Korean and Turkish languages.
+* Resources for French and Spanish languages were updated (thanks to Michel Such and Fernando Gregoire).
+
+
+11.02.2017     v2.11.0.622
++ Added the support of new operators for regular expresions (\U, \L, \E, \u, \l).
+
+
 05.02.2017     v2.11.0.621
 - Fixed the creating of LRC and SRT files.
 * Updated the extracting of text and images from LIT files.
