@@ -1,5 +1,11 @@
 BALABOLKA :: History
 
+29.07.2017     v2.11.0.632
++ Added the option "Minimize to tray when closing the program" (the window "Settings", the tab "View").
+- Fixed the support of ClearType.
+* Resources for German and Turkish languages were updated (thanks to Regine Mueller and Cagri Dogan).
+
+
 25.06.2017     v2.11.0.631
 + Small improvements.
 * Resources for Hungarian and Portuguese languages were updated (thanks to Zoltan Magyar and Angelo Abrantes).
