@@ -1,5 +1,10 @@
 BalabolkaPortable.exe
 
+App/*
+!App/AppInfo
+!App/DefaultData
+!App/readme.txt
+
 Data/
 
 Desktop.ini
